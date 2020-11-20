@@ -9,8 +9,7 @@ One of my hobbies is developing games using Unity. I have some failed, unpublish
 This is a brief summary of my software life so far.  
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=demirmusa&show_icons=true&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirmusa&layout=compact" height="195" alt="TopLangs"/>
-
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=demirmusa&layout=compact)
 ## Job 💼
 
 I'm working as a Software Developer at [Volosoft](https://volosoft.com/)
