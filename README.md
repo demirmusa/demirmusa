@@ -9,7 +9,7 @@ One of my hobbies is developing games using Unity. I have some failed, unpublish
 This is a brief summary of my software life so far.  
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=demirmusa&show_icons=true&count_private=true)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=demirmusa&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirmusa&layout=compact" height="195" alt="TopLangs"/>
 
 ## Job 💼
 
