@@ -4,7 +4,7 @@ My name is Musa Demir. I love coding and developing. My software adventure start
 
 I mainly use C# and develop web applications and frameworks (thanks to aspnetboilerplate).  
 I like open-source culture and follow open-source projects. I try to contribute open-source projects as much as I can, but not much enough.  
-One of my hobbies is developing games using Unity. I have some failed, unpublished projects. (since its just a hobby)
+I also develop games using Unity.
 
 This is a brief summary of my software life so far.  
 
