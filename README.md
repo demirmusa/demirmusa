@@ -4,19 +4,21 @@ My name is Musa Demir.
 
 I graduated from the Computer Engineering department at Sakarya University.
 
-Currently, I work at [Migros Ticaret A.Ş.](https://www.linkedin.com/company/migros-ticaret) as a Senior Full-Stack Developer.
+Currently, I work at [Migros Ticaret A.Ş.](https://www.linkedin.com/company/migros-ticaret) as a Senior Full-Stack Developer. Here I work on enterprise .NET systems from architecture through to delivery: distributed and event-driven backends, observability, KVKK-compliant data platforms, mobile applications and AI integration.
 
-Prior to this, I worked at Games United as a Senior Full Stack .Net Developer for over 1.5 years. In this role, I handled server-side requirements, web APIs, and implemented game logics for a multiplayer casual mobile games.
+Prior to this, I worked at Games United as a Senior Full-Stack Developer for over 1.5 years. In this role, I designed a centralized multiplayer server architecture on DarkRift 2 and ASP.NET, powering real-time online play across several Unity mobile games, and built session management, authentication and a Unity client with client-side prediction and lag compensation.
 
-Simultaneously, I managed my own company, where we developed games, growing the team to 8 members and overseeing the team's management.
+Simultaneously, I co-founded and ran my own game studio, FunByte Games, for 2.5 years, growing the team to 8 members. We built one of the first AI-integrated mobile apps (ChatGPT, Stable Diffusion, Replicate) and more than 50 game prototypes.
 
-Before joining Games United, I worked at Volosoft for over 3.5 years. As one of the main developers for [AspNet Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate), [AspNet Zero](https://aspnetzero.com/), their sub-projects, and internal projects, I contributed to the development of web frameworks. During this time, I had the opportunity to significantly improve my skills by adding and supporting various libraries, other frameworks, and clean code requirements to the project, all of which are essential for framework development.
+Before joining Games United, I worked at Volosoft for over 3.5 years. As one of the main developers of [AspNet Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) (a .NET Foundation framework with nearly 12,000 GitHub stars), [AspNet Zero](https://aspnetzero.com/) (the commercial multi-tenant SaaS product built on it), their sub-projects and internal projects, I contributed to the development of web frameworks. I also migrated the AspNet Zero mobile application from Xamarin to .NET MAUI and built a Visual Studio extension that generates frontend and backend pages.
 
-My career began at Sakarya University, where I worked for more than 2.5 years in the IT department. There, we developed and marketed university management systems to numerous universities. During this time, I worked for 1.5 years on the maintenance and enhancement of a monolithic project with new features.(And worked on some other projects) Subsequently, Subsequently, I worked for about a year on the migration of this project to a microservices architecture.
+My career began at Sakarya University, where I worked for more than 2.5 years in the IT department. There, I worked on SABIS, an education administration platform used by more than 10 universities, and led its migration from .NET Framework to .NET Core and from a monolith to a microservice architecture.
 
-Throughout my career, I have been working as a Full-Stack Developer with a primary focus on C#. That has given me the opportunity to professionally gain expertise in various frameworks and libraries, including C#, ASP.Net Core, JavaScript, TypeScript, Angular, Blazor, Unity and a lot of frameworks and libraries.
+Throughout my career, I have been working as a Full-Stack Developer with a primary focus on C#. That has given me the opportunity to professionally gain expertise in C#, ASP.NET Core, Entity Framework Core, Angular, TypeScript, JavaScript, Blazor, .NET MAUI, Unity and many other frameworks and libraries.
 
-I've been developing web applications and frameworks professionally for over 7 years.
+These days my focus is software architecture and AI. I work with Azure OpenAI, Azure AI Foundry, Semantic Kernel, ML.NET, RAG, vector search and MCP, and Claude Code, GitHub Copilot and Cursor are part of my daily workflow. I also wrote [nanocontext](https://github.com/demirmusa/nanocontext), an open-source semantic code index for AI coding agents.
+
+I've been developing software professionally since January 2017 and I'm now in my 10th year.
 
 This is a brief summary of my software journey so far.
 
@@ -29,7 +31,7 @@ Senior Full-Stack Developer
 <img height="50" src="https://github.com/demirmusa/demirmusa/assets/48536631/0160ffae-6e55-4277-a431-ccd5cbb9391a"/>
 </a>
 
-## I previously worked at🔭
+## I previously worked at 🔭
 <a href="https://play.google.com/store/apps/details?id=com.gamesunited.DefenseOfAlamos" target="_blank" style="color: var(--color-fg-default); text-decoration: none">
 <img height="50" src="https://github.com/demirmusa/demirmusa/assets/48536631/bf2840c7-1ecf-481c-b34f-1f22d6078c0d"/>
 </a>
@@ -42,18 +44,3 @@ Senior Full-Stack Developer
 
 ## Contact Me 📫
 [![Linkedin Badge](https://img.shields.io/static/v1?label=%2Fmusa-demir&message=Follow&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/musa-demir/)
-
-<!--
-**demirmusa/demirmusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
